@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/udacity-project4/catkin_ws/install/setup.sh
